@@ -18,7 +18,7 @@ Official links and resources.
 - [xERC20 Launchpad](https://launchpad.xerc20.com/) -  no-code xERC20 Launchpad
 - [Bridge Specification](https://hackmd.io/@arjunbhuptani/xerc20-bridge-spec) - Bridge Specification document.
 - [ETH Magicians](https://ethereum-magicians.org/t/erc-7281-sovereign-bridged-tokens/14979) - Discussion on ETH Magicians.
-- [Draft EIP](https://github.com/ethereum/EIPs/pull/7281) - Draft EIP.
+- [Draft ERC](https://github.com/ethereum/ERCs/pull/89) - Draft ERC.
 - [xERC20](https://github.com/defi-wonderland/xERC20) - Repo containing official XERC20 implementation and deployments for the lockbox and factory.
 
 
